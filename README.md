@@ -12,6 +12,10 @@ Hi, I’m Riddhi Chakraborty, a Computer Science undergraduate and passionate fu
 ![](https://nirzak-streak-stats.vercel.app/?user=riddhi-testcases&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-testcases&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🔤 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-testcases&layout=compact&theme=radical)
+
 # 🧠 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Riddzz_stack?theme=dark&font=Karma&extension=null)](https://leetcode.com/u/Riddzz_stack)
 
