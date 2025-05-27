@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi, I’m Riddhi Chakraborty, a Computer Science undergraduate and passionate full-stack web developer with a strong foundation in JavaScript, React, Node.js, and cloud platforms. I currently serve as a Team Lead and Web Developer at the Bharat Economic Forum, where I lead scalable platform development in an agile environment. With internship experience in full-stack, Android, and AI-based projects, I thrive on building impactful digital products and contributing to open-source. I’m always excited to collaborate, learn, and grow with the tech community.
+Hi, I’m Riddhi Chakraborty, a Computer Science undergraduate and passionate full-stack web developer with a strong foundation in JavaScript, React, Node.js, and cloud platforms. I currently serve as a Team Lead and Web Developer at the Bharat Economic Forum, where I lead scalable platform development in an agile environment. I'm also a Keploy API Fellow, understanding the building of production-grade testing solutions and working on contributing to open-source development. With internship experience in full-stack, Android, and AI-based projects, I thrive on building impactful digital products and contributing to open-source. I’m always excited to collaborate, learn, and grow with the tech community.
 
 📍 Kolkata, West Bengal, 🇮🇳 India
 
