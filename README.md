@@ -10,23 +10,14 @@ Hi, I’m Riddhi Chakraborty, a Computer Science undergraduate and passionate fu
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Riddzz_stack)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chakrabortyridd1)
 
-## 📊 GitHub Stats (Live)
 
-<!-- Total Stars, Commits, Contributions -->
-![Riddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riddhi-testcases&show_icons=true&theme=radical&count_private=true&include_all_commits=true) 
-
-![Riddhi's GitHub Streak](https://streak-stats.demolab.com?user=riddhi-testcases&theme=radical&hide_border=false) 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-testcases&layout=compact&theme=radical&count_private=true)
-
-
-<!-- # 📊 GitHub Stats
+ # 📊 GitHub Stats
 
 ![Riddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riddhi-testcases&show_icons=true&theme=radical&count_private=true)
 
 ![Riddhi's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=riddhi-testcases&theme=radical&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-testcases&layout=compact&theme=radical&count_private=true&show_icons=true) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-testcases&layout=compact&theme=radical&count_private=true&show_icons=true) 
 
 
 # 🧠 LeetCode Stats
