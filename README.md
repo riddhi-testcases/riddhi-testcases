@@ -17,8 +17,6 @@ Hi, I’m Riddhi Chakraborty, a Computer Science undergraduate and passionate fu
 
 ![Riddhi's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=riddhi-testcases&theme=radical&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-testcases&layout=compact&theme=radical&count_private=true&show_icons=true) 
-
 
 # 🧠 LeetCode Stats
 
