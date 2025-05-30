@@ -13,7 +13,7 @@ Hi, I’m Riddhi Chakraborty, a Computer Science undergraduate and passionate fu
 
  # 📊 GitHub Stats
 
-
+![Riddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riddhi-testcases&show_icons=true&theme=radical&count_private=true) 
 
 ![Riddhi's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=riddhi-testcases&theme=radical&show_icons=true&count_private=true)
 
