@@ -4,7 +4,7 @@ Hi, I’m Riddhi Chakraborty, a Computer Science undergraduate and passionate fu
 
 📍 Kolkata, West Bengal, 🇮🇳 India
 
-## 🌐 Socials:
+## 🌐 Websites:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riddhi-chakraborty-334069279) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chakrabortyriddhi88@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Riddzz_stack)
