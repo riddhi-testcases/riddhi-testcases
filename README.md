@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi, I’m Riddhi Chakraborty, a Computer Science undergraduate and passionate Software Developer with a strong passion for AI solutions and cloud platforms. I currently serve as a Team Lead and Web Developer Intern at the Bharat Economic Forum, where I lead scalable platform development in an agile environment. I'm also a Keploy API Fellow, understanding the building of production-grade testing solutions and working on contributing to open-source development. With internship experience in full-stack, Android, and AI-based projects, I thrive on building impactful digital products and contributing to open-source. I’m always excited to collaborate, learn, and grow with the tech community.
+Hi, I’m Riddhi Chakraborty, a Computer Science undergraduate and passionate Software Developer with a strong passion for AI solutions and cloud platforms. I currently serve as a Team Lead and Web Developer Intern at the Bharat Economic Forum, where I lead scalable platform development in an agile environment. I'm also a Keploy API Fellow, understanding the building of production-grade testing solutions and working on contributing to open-source development. With previous internship experience in full-stack, Android, and AI-based projects & multiple cerifications from Oracle, AWS, GCP and IBM; I thrive on building impactful digital products and contributing to open-source. I’m always excited to collaborate, learn, and grow with the tech community.
 
 📍 Kolkata, West Bengal, 🇮🇳 India
 
@@ -17,10 +17,14 @@ Hi, I’m Riddhi Chakraborty, a Computer Science undergraduate and passionate So
 
 ![Riddhi's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=riddhi-testcases&theme=radical&show_icons=true&count_private=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=riddhi-testcases&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 # 🧠 LeetCode Stats
 
-![Riddhi's LeetCode Stats](https://leetcard.jacoblin.cool/Riddzz_stack?theme=radical&show_icons=true&ext=activity) 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Riddzz_stack)
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Riddzz_stack&animated=true&theme=dark)
 
 
 ## 💻 Tech Stack
