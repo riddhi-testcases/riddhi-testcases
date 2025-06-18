@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi, I’m Riddhi Chakraborty, a Computer Science undergrad at KIIT and passionate Software Developer with a strong passion for AI solutions and cloud platforms. 
+Hi, I’m Riddhi Chakraborty, a Computer Science undergrad at KIIT and zealous Software Developer with a strong passion for AI solutions and cloud platforms. 
 - Currently serving as Web Developer Intern and Team Lead at the Bharat Economic Forum, where I lead scalable full-stack platform development in an agile environment.
 - I'm a SheCodes Scholar and Keploy API Fellow, understanding the building of production-grade testing solutions and working on contributing to open-source development.
 - Previously interned at CBT & AICTE, where I worked on full-stack, Android, and AI-based projects
