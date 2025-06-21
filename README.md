@@ -24,7 +24,7 @@ I thrive on building impactful digital products and contributing to open-source.
 
 ![Riddhi's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=riddhi-testcases&theme=radical&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-testcases&layout=compact&theme=radical&hide_progress=true&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-testcases&layout=compact&theme=radical&hide_progress=true&langs_count=8)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=riddhi-testcases&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
