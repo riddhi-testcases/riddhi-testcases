@@ -15,7 +15,8 @@ I thrive on building impactful digital products and contributing to open-source.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riddhi-chakraborty-334069279) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chakrabortyriddhi88@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Riddzz_stack)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chakrabortyridd1)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3★_1783-orange?logo=codechef&logoColor=white)](https://www.codechef.com/users/riddhi_codes)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5★?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chakrabortyridd1)
 
 
  # 📊 GitHub Stats
@@ -27,6 +28,7 @@ I thrive on building impactful digital products and contributing to open-source.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-testcases&layout=compact&theme=radical&hide_progress=true&langs_count=8)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=riddhi-testcases&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 # 🧠 LeetCode Stats
