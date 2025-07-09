@@ -2,7 +2,7 @@
 
 Hi, I’m Riddhi Chakraborty, a Computer Science undergrad at KIIT and a zealous Software Developer with a strong passion for AI solutions and cloud platforms. 
 - Currently serving as a Developer Intern and Team Lead at the Bharat Economic Forum, where I lead scalable full-stack platform development in an agile environment.
-- Also, working as Coding Mentor at SheCanCode leading technical mentorship for women across the globe via coding sessions, code reviews, software design guidance etc.
+- Alongside, working as Coding Mentor at SheCanCode leading technical mentorship for women across the globe via coding sessions, code reviews, software design guidance etc.
 - I'm also SheCodes Scholar and Keploy API Fellow, understanding the building of production-grade testing solutions and working on contributing to open-source development.
 - Previously interned at CBT & AICTE, where I worked on full-stack, Android, and AI-based projects
 - 5 star rating in HackerRank. 3 star rating in Codechef.
