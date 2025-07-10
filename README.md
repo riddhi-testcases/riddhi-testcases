@@ -16,7 +16,7 @@ I thrive on building impactful digital products and contributing to open-source.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riddhi-chakraborty-334069279) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chakrabortyriddhi88@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Riddzz_stack)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3★_1783-orange?logo=codechef&logoColor=white)](https://www.codechef.com/users/riddhi_cod)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3★_1783-orange?logo=codechef&logoColor=white)](https://www.codechef.com/users/ridd_cod)
 [![HackerRank](https://img.shields.io/badge/HackerRank-5★?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chakrabortyridd1)
 
 
