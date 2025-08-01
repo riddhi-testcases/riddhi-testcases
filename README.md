@@ -2,10 +2,10 @@
 
 Hi, I’m Riddhi Chakraborty, a Computer Science undergrad at KIIT and a zealous Software Developer with a strong passion for AI solutions and cloud platforms. 
 - Currently serving as a Developer Intern and Team Lead at the Bharat Economic Forum, where I lead scalable full-stack platform development in an agile environment.
-- Alongside, working as Coding Mentor at SheCanCode leading technical mentorship for women across the globe via coding sessions, code reviews, software design guidance etc.
+- Alongside, working as GSSOC Mentor and Coding Mentor at SheCanCode leading technical mentorship for women across the globe via coding sessions, code reviews, software design guidance etc.
 - I'm also SheCodes Scholar and Keploy API Fellow, understanding the building of production-grade testing solutions and working on contributing to open-source development.
 - Previously interned at CBT & AICTE, where I worked on full-stack, Android, and AI-based projects
-- 5 star rating in HackerRank. 3 star rating in Codechef.
+- 5 star rating in HackerRank. 5 star rating in Codechef.
 - Multiple cerifications from Oracle, AWS, GCP and IBM.
 
 I thrive on building impactful digital products and contributing to open-source. I’m always excited to collaborate, learn, and grow with the tech community.
@@ -16,7 +16,7 @@ I thrive on building impactful digital products and contributing to open-source.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riddhi-chakraborty-334069279) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chakrabortyriddhi88@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Riddzz_stack)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3★_1783-orange?logo=codechef&logoColor=white)](https://www.codechef.com/users/ridd_cod)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5★_2097-orange?logo=codechef&logoColor=white)](https://www.codechef.com/users/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-5★?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chakrabortyridd1)
 
 
